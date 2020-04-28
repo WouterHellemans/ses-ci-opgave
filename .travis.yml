@@ -1,0 +1,10 @@
+language:java
+
+jdk:
+	-openjdk11
+
+notifications:
+	email:'false'
+
+install:
+	-./gradlew check

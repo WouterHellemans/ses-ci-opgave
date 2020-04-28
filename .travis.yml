@@ -1,10 +1,10 @@
-language:java
+language: java
 
 jdk:
-	-openjdk11
+  - openjdk11
 
 notifications:
-	email:'false'
+  email: false
 
 install:
-	-./gradlew check
+  - ./gradlew check

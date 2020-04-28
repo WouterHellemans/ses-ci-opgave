@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-28T11:36:13" hostname="MacBook-Pro-van-Wouter-6.local" time="0.02">
+  <properties/>
+  <testcase name="calculate_nul_geeftnulTerug()" classname="CalculatorTest" time="0.017"/>
+  <testcase name="calculate_positieveGetallen_geeftSomTerug()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="calculate_negatieveGetallen_geeftSomTerug()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
